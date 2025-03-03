@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.swp
